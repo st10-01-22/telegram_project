@@ -1,3 +1,0 @@
-telebot==0.0.5
-Wikipedia-API==0.5.8
-requests==2.28.1
